@@ -3,7 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+# npm install
 https://github.com/user-attachments/assets/657232b2-0778-4ab9-859f-99f1de866be5
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
